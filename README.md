@@ -30,3 +30,7 @@ or
 ```bash
 python3 database.py
 ```
+
+
+## Future Modification Suggestions
+I think this assignment can be improved to become an official assignment in the future by adding methods, like delete(key), to test additional transaction functionality. I also think there could be more examples about edge cases, such as conflicting keys or invalid key types. This assignment could also be improved by giving us clear unit tests to make sure our code is working properly. The given example code could also be turned into pseudocode that works for multiple programming languages since the assignment is open to any language.
